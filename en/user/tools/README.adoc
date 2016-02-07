@@ -1,3 +1,9 @@
 # Debugging Tools
 
-PropellerIDE includes several tools out of the box that make working with the Propeller easier.
+
+
+You just wrote an awesome program, you sit down to test it out, you cross your fingers, dripping with anticipation, and... it doesn't work.
+
+Agh! What a frustrating moment!
+
+Luckily, PropellerIDE can help. It has lots of built-in tools to help you pinpoint where you went wrong.
