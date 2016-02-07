@@ -8,8 +8,6 @@ image:terminal-toolbar.png[]
 
 ## Input
 
-image:terminal-input.png[]
-
 There are two ways to input text
 
 - Through the console itself
@@ -24,6 +22,8 @@ Using the console is recommended when the target device supports a more advanced
 Pressing the `Enter` or `Return` key sends a single newline (ASCII `10`) to the device.
 
 ### Input Line
+
+image:terminal-input.png[]
 
 For simpler interfaces, the input line is a better choice.
 
