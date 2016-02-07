@@ -2,6 +2,8 @@
 
 sdfsdfjsi ofjsoi djfsd
 
+.Main circuit board
+[caption="Figure 2: "]
 image:project-view.png[caption="This is some interesting picture!", float="right"]
 
 sdf iojsdf sifj oisdj
