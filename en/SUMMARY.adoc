@@ -8,9 +8,9 @@
 .. link:user/editor/README.adoc[The Main Window]
 ... link:user/editor/toolbar.adoc[Tool Bar]
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
+... Editor View
 ... link:user/editor/project-view.adoc[Project View]
 ... Project Archive Tool
-... Editor View
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
 ... Memory Map
