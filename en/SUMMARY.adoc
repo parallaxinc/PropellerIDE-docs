@@ -4,7 +4,6 @@
 . link:user/README.adoc[User Guide]
 .. link:user/getting-started/README.adoc[Getting Started]
 ... link:user/getting-started/installing-propelleride.adoc[Installing PropellerIDE]
-.... Auto-completion
 .. link:user/editor/README.adoc[The Main Editor]
 ... Tool Bar
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
