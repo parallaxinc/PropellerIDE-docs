@@ -1,6 +1,10 @@
 # Terminal
 
+PropellerIDE has a built-in serial terminal you can use to debug your Propeller programs.
+
 image:terminal.png[]
+
+There are no restrictions on the number of terminals that can be open at a time, even on the same device, and software can be downloaded to attached devices without disconnecting terminals first.
 
 ## Tool Bar
 
