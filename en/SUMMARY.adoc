@@ -12,5 +12,5 @@
 ... Project Archive Tool
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/tools/terminal.adoc[The Terminal]
-.. link:user/tools/README.adoc/debugging_tools.adoc[Debugging Tools]
+.. link:user/tools/README.adoc[Debugging Tools]
 
