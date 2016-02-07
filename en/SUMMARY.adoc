@@ -7,7 +7,7 @@
 ... link:user/getting-started/installing-ftdi-drivers.adoc[Installing FTDI Drivers]
 .. link:user/editor/README.adoc[The Main Window]
 ... link:user/editor/toolbar.adoc[Tool Bar]
-... Editor View
+... link:user/editor/editor-view.md[Editor View]
 ... link:user/editor/project-view.adoc[Project View]
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
 ... Project Archive Tool
