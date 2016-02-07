@@ -1,5 +1,6 @@
 = Summary
 
+. link:README.md[Introduction]
 . link:README.adoc[Introduction]
 . link:user/README.adoc[User Guide]
 .. link:user/getting-started/README.adoc[Getting Started]
@@ -12,6 +13,7 @@
 ... link:user/editor/project-view.adoc[Project View]
 ... Project Archive Tool
 .. link:user/preferences/README.adoc[Preferences]
+... Oscilloscope
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
 ... Memory Map
