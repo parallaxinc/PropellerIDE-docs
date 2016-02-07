@@ -1,2 +1,5 @@
-# User Guide
+# Frequently Asked Questions
 
+[qanda]
+What is PropellerIDE?::
+  A modern editing environment for the Parallax Propeller.
