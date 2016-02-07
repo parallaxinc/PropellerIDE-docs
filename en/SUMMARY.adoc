@@ -18,7 +18,7 @@
 ... Oscilloscope
 ... Logic Analyzer
 .. link:user/languages/README.adoc[Language Support]
-... Spin
+... link:user/languages/spin.adoc[Spin]
 ... PropBASIC
 ... C
 .. link:user/preferences/README.adoc[Preferences]
