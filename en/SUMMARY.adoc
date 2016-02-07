@@ -1,6 +1,6 @@
 = Summary
 
 . link:README.adoc[Introduction]
-. link:user/editing.adoc[User Guide]
+.. link:user/editing.adoc[User Guide]
 .. link:user/sometest_adoc.adoc[Some Test]
 
