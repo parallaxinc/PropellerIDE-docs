@@ -1,2 +1,4 @@
-# Editor View
+= Editor View
+
+image:editor-view.png[caption="The editor widget"]
 
