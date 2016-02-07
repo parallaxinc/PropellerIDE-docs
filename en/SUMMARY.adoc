@@ -2,7 +2,7 @@
 
 . link:README.md[Introduction]
 . link:README.adoc[Introduction]
-. link:user/README.adoc[User Guide]
+. link:user/faq.md[User Guide]
 .. link:user/getting-started/README.adoc[Getting Started]
 ... link:user/getting-started/installing-propelleride.adoc[Installing PropellerIDE]
 ... Installing FTDI Drivers
