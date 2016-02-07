@@ -1,3 +1,57 @@
 # Terminal
 
 image:terminal.png[]
+
+## Tool Bar
+
+image:terminal-toolbar.png[]
+
+## Input
+
+image:terminal-input.png[]
+
+There are two ways to input text
+
+- Through the console itself
+- Through the _input line_ at the bottom of the window
+
+### Console
+
+image:terminal-console.png[]
+
+Using the console is recommended when the target device supports a more advanced command-line interface, as it will allow you to take advantage of things like readline capabilities, cursor positioning, etc.
+
+Pressing the `Enter` or `Return` key sends a single newline (ASCII `10`) to the device.
+
+### Input Line
+
+For simpler interfaces, the input line is a better choice.
+
+Pressing the `Enter` or `Return` sends the text without newline. Pressing the _Send_ button sends the text plus a single newline.
+
+In the future, the input line will su
+
+
+## _Parallax Serial Terminal_ Compatibility
+
+The following ASCII characters implement basic terminal compatible with the original Propeller Tool's serial terminal.
+
+|===
+| 16 | Clear Screen
+| 11 | Clear to End of line
+| 1 | Home cursor
+| 2 | Position Cursor in x,y
+| 14 | Position cursor in X
+| 15 | Position cursor in Y
+| 13 | New Line
+
+| 10 | Line Feed
+| 3 | Move cursor Left
+| 4 | Move cursor Right
+| 5 | Move cursor Up
+| 6 | Move cursor Down
+| 9 | Tab
+| 8 | Backspace
+|===
+
+PropellerIDE includes a corresponding `com.serial.terminal` object that implements these control characters.
