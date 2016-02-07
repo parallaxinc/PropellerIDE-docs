@@ -9,5 +9,6 @@
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
 ... link:user/editor/code-completion.adoc[Code Completion]
 ... link:user/editor/project-view.adoc[Project View]
+... Project Archive Tool
 .. link:user/preferences/README.adoc[Preferences]
 
