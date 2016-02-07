@@ -46,7 +46,7 @@ Selects the target download device from any available devices connected to the s
 
 ==== image:project-info3.png[] Memory Map
 
-Opens the link:memory-map.adoc[Memory Map] widget.
+Opens the link:../tools/memory-map.adoc[Memory Map] widget.
 
 ==== image:project-terminal.png[] Terminal
 
