@@ -1,3 +1,5 @@
 = Project View
 
 image:project-view.png[]
+
+include::editor-view.adoc[tabsize=4]
