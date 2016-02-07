@@ -6,5 +6,5 @@
 ... link:user/getting-started/installing-propelleride.adoc[Installing PropellerIDE]
 .. link:user/editor/README.adoc[The Main Editor]
 ... link:user/editor/tabbed-browsing.adoc[Keyboard Shortcuts]
-.. Preferences
+.. link:user/preferences/README.adoc/preferences.adoc[Preferences]
 
