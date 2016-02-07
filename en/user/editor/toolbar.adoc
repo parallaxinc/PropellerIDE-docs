@@ -1,14 +1,24 @@
 # Tool Bar
 
+image:toolbar.png[]
+
 == File
 
 ==== image:file-new.png[] New
 
+Creates a new file.
+
 ==== image:file-open.png[] Open
+
+Opens an existing file.
 
 ==== image:file-save.png[] Save
 
+Saves the current file to disk.
+
 ==== image:file-save-as.png[] Save As
+
+Saves a copy of the current file under a new name. The original file is not saved.
 
 == Project
 
@@ -26,10 +36,18 @@ Compiles and downloads it to the currently selected board.
 
 ==== image:project-burn.png[] Write Project
 
+Compiles the project, downloads it to the board, and writes it to the board's first EEPROM.
+
 ==== image:port-select.png[] Device Selector
+
+Selects the target download device from any available devices connected to the system.
 
 == Debugging
 
 ==== image:project-info3.png[] Memory Map
 
+Opens the link:memory-map.adoc[Memory Map] widget.
+
 ==== image:project-terminal.png[] Terminal
+
+Opens the link:terminal.adoc[Terminal] widget.
