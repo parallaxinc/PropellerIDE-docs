@@ -1,3 +1,4 @@
 # Summary
 
 * link:README.md[Introduction]
+** link:user/README.md[User Guide]
