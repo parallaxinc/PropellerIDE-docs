@@ -10,38 +10,45 @@ There are no restrictions on the number of terminals that can be open at a time,
 
 image:terminal-toolbar.png[]
 
-image:terminal-baud.png[]
-image:terminal-clear.png[]
-image:terminal-device.png[]
-image:terminal-echo.png[]
-image:terminal-reset.png[]
-image:terminal-rxtx.png[]
-
 ==== image:terminal-active.png[] Active Light & Button
 
 When the light is green and *Active* is pressed, the device is connected
 and ready to send and receive data.
 
-==== Reset
+==== image:terminal-reset.png[] Reset
 
 Sends a hardware reset to the board.
 
-==== Clear
+==== image:terminal-clear.png[] Clear
 
 Clears all text from the console and sets the cursor back to the top left.
 
-==== Port Name
+==== image:terminal-device.png[] Device
 
-The name of the port this terminal is currently attached to.
+The name of the device this terminal is currently attached to. This list of devices varies depending on your platform, but generally speaking, they look as follows:
 
-==== Baud Rate
+Serial devices:
+
+|===
+| Windows | COM1, COM2, ...
+| Linux | ttyUSB0, ttyUSB1, ...
+| Mac | cu.usbserial-...
+|===
+
+Wifi devices:
+
+_not yet available_
+
+==== image:terminal-baud.png[] Baud Rate
 
 The rate of transmission to the board. Type in the baud rate you want, or click
-the arrow to select from a lit of common baud rates.
+the arrow to select from the following baud rates:
 
-![](images/terminal-baud.png)
+    9600, 19200, 38400, 57600, 115200, 230400, 460800, 921600
 
-==== Echo Enabled
+The default baud rate is `115200`.
+
+==== image:terminal-echo.png[] Echo
 
 When echo is enabled, everything you type will be copied to the console, in addition
 to being sent to the device. Some software expects echo to be enabled, while others
@@ -49,15 +56,9 @@ send the data back to the console themselves, which will result in duplicated te
 
 Try toggling this feature if your application isn't behaving how you want it to.
 
-==== Rx / Tx Lights
+==== image:terminal-rxtx.png[] Rx / Tx Lights
 
-These lights indicate when data is received or sent, respectively.
-
-![](images/terminal-lights.png)
-
-
-
-
+These lights indicate when data is received or sent. Red is received, blue is sent.
 
 == Input
 
