@@ -12,11 +12,11 @@
 ... link:user/editor/code-completion.adoc[Code Completion]
 ... link:user/editor/project-view.adoc[Project View]
 ... Project Archive Tool
-.. link:user/preferences/README.adoc[Preferences]
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
 ... Memory Map
 ... Heat Map
 ... Oscilloscope
 ... Logic Analyzer
+.. link:user/preferences/README.adoc[Preferences]
 
