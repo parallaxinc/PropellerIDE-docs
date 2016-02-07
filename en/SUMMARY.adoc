@@ -11,6 +11,7 @@
 ... link:user/editor/project-view.adoc[Project View]
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
 ... Project Archive Tool
+... Documentation View
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
 ... Memory Map
