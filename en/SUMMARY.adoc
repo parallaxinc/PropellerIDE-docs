@@ -17,11 +17,11 @@
 ... Heat Map
 ... Oscilloscope
 ... Logic Analyzer
-.. link:user/preferences/README.adoc[Preferences]
 .. link:user/languages.md[Language Support]
 ... link:user/spin/README.adoc[Spin]
 ... PropBASIC
 ... C
+.. link:user/preferences/README.adoc[Preferences]
 .. link:user/faq.adoc[Frequently Asked Questions]
 . Developer Guide
 
