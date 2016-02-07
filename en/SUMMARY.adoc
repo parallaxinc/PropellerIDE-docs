@@ -17,7 +17,7 @@
 ... Heat Map
 ... Oscilloscope
 ... Logic Analyzer
-.. link:user/languages.md[Language Support]
+.. link:user/languages/README.adoc[Language Support]
 ... link:user/spin/README.adoc[Spin]
 ... PropBASIC
 ... C
