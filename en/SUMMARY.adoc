@@ -7,5 +7,6 @@
 .... Auto-completion
 .. link:user/editor/README.adoc[The Main Editor]
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
+... Auto-completion
 .. link:user/preferences/README.adoc[Preferences]
 
