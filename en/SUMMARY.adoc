@@ -20,6 +20,6 @@
 ... Logic Analyzer
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/languages.md[Language Support]
-... Spin
+... link:user/spin/README.adoc[Spin]
 .. link:user/faq.adoc[Frequently Asked Questions]
 
