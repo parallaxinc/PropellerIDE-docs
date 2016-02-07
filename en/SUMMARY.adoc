@@ -10,6 +10,7 @@
 ... link:user/editor/code-completion.adoc[Code Completion]
 ... link:user/editor/project-view.adoc[Project View]
 ... Project Archive Tool
+... Tool Bar
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
