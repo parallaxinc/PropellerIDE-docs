@@ -11,6 +11,7 @@
 ... link:user/editor/project-view.adoc[Project View]
 ... Project Archive Tool
 .. link:user/preferences/README.adoc[Preferences]
+... Appearance
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
 ... Memory Map
