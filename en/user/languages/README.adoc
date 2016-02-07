@@ -1,13 +1,2 @@
 = Language Support
 
-== Spin
-
-Spin is fully supported by PropellerIDE.
-
-== PropBASIC
-
-_PropBASIC support is planned for a future release._
-
-== C
-
-_C feasibility is being evaluated for a future IDE release._
