@@ -2,5 +2,5 @@
 
 . link:README.adoc[Introduction]
 . link:../user/README.adoc[User Guide]
-.. Some Test
+.. link:../user/some_test.adoc[Some Test]
 
