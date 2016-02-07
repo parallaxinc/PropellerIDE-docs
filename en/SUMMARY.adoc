@@ -23,4 +23,5 @@
 ... PropBASIC
 ... C
 .. link:user/faq.adoc[Frequently Asked Questions]
+. Developer Guide
 
