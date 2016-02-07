@@ -2,6 +2,6 @@
 
 sdfsdfjsi ofjsoi djfsd
 
-image:project-view.png[float="right"]
+image:project-view.png[caption="This is some interesting picture!", float="right"]
 
 sdf iojsdf sifj oisdj
