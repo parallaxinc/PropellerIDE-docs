@@ -2,6 +2,6 @@
 
 . link:README.adoc[Introduction]
 . link:user/README.adoc[User Guide]
+.. link:user/getting-started.adoc[Getting Started]
 .. link:user/editing.adoc[Editing]
-.. link:user/sometest_adoc.adoc[Some Test]
 
