@@ -1,4 +1,5 @@
-# Summary
+= Summary
 
-* link:README.md[Introduction]
-** link:user/README.md[User Guide]
+. link:README.adoc[Introduction]
+.. User Guide
+
