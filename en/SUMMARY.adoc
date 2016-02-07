@@ -18,4 +18,5 @@
 ... Oscilloscope
 ... Memory Map
 ... Heat Map
+... Logic Analyzer
 
