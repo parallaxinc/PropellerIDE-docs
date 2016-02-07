@@ -1,2 +1,27 @@
 # Tool Bar
 
+== File
+
+==== image:file-new.png[] New
+
+==== image:file-open.png[] Open
+
+==== image:file-save.png[] Save
+
+==== image:file-save-as.png[] Save As
+
+== Project
+
+==== image:file-zip.png[] Archive Project
+
+==== image:project-build.png[] Build Project
+
+==== image:project-run.png[] Run Project
+
+==== image:project-burn.png[] Write Project
+
+== Debugging
+
+==== image:project-info3.png[] Memory Map
+
+==== image:project-terminal.png[] Terminal
