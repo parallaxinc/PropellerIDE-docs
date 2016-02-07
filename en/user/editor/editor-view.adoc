@@ -1,4 +1,4 @@
 = Editor View
 
-image:editor-view.png[caption="The editor widget"]
+image:editor-view.png[]
 
