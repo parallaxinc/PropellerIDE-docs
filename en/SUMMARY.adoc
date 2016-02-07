@@ -3,5 +3,6 @@
 . link:README.adoc[Introduction]
 . link:user/README.adoc[User Guide]
 .. link:user/getting-started.adoc[Getting Started]
-.. link:user/editor.adoc[The Main Editor]
+.. link:user/editor/README.adoc[The Main Editor]
+.. link:user/editor/tabbed-browsing.adoc[Keyboard Shortcuts]
 
