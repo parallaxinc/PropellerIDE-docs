@@ -2,7 +2,7 @@
 
 . link:README.adoc[Introduction]
 . link:user/README.adoc[User Guide]
-.. link:user/getting-started.adoc[Getting Started]
+.. link:user/getting-started/README.adoc[Getting Started]
 ... link:user/getting-started/installing-propelleride.adoc[Installing PropellerIDE]
 .. link:user/editor/README.adoc[The Main Editor]
 ... link:user/editor/tabbed-browsing.adoc[Keyboard Shortcuts]
