@@ -2,4 +2,4 @@
 
 [qanda]
 What is PropellerIDE?::
-  A modern editing environment for the Parallax Propeller.
+  A modern editor for the Parallax Propeller.
