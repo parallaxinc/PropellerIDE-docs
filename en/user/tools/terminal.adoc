@@ -15,6 +15,10 @@ image:terminal-toolbar.png[]
 When the light is green and *Active* is pressed, the device is connected
 and ready to send and receive data.
 
+When the terminal is disconnected, it goes black and will stop receiving data and responding to key presses.
+
+image:terminal-inactive.png[]
+
 ==== image:terminal-reset.png[] Reset
 
 Sends a hardware reset to the board.
