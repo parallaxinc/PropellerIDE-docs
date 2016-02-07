@@ -19,6 +19,6 @@
 ... Oscilloscope
 ... Logic Analyzer
 .. link:user/preferences/README.adoc[Preferences]
-.. Language Support
+.. link:user/languages.md[Language Support]
 .. link:user/faq.adoc[Frequently Asked Questions]
 
