@@ -15,7 +15,7 @@
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
+... Oscilloscope
 ... Memory Map
 ... Heat Map
-... Oscilloscope
 
