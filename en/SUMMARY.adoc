@@ -12,6 +12,6 @@
 ... Project Archive Tool
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/tools/README.adoc[Debugging Tools]
-... link:user/tools/terminal.adoc[The Terminal]
+... link:user/tools/terminal.adoc[Terminal]
 ... Memory Map
 
