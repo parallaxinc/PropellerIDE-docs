@@ -1,4 +1,5 @@
 # Keyboard Shortcuts
+:experimental:
 
 ## Basic Shortcuts
 
