@@ -1,2 +1,9 @@
 # Keyboard Shortcuts
 
+====
+|kbd:[F11] | Increase zoom
+|kbd:[F11] | Increase zoom
+|kbd:[F11] | Increase zoom
+|kbd:[F11] | Increase zoom
+|kbd:[F11] | Increase zoom
+====
