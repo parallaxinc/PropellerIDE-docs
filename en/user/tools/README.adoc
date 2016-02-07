@@ -1,2 +1,3 @@
 # Debugging Tools
 
+PropellerIDE includes several tools out of the box that make working with the Propeller easier.
