@@ -2,4 +2,4 @@
 
 image:project-view.png[]
 
-includel::editor-view.adoc[tabsize=4]
+include1::editor-view.adoc[]
