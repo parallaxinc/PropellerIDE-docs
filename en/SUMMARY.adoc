@@ -1,7 +1,6 @@
 = Summary
 
 . link:README.md[Introduction]
-.. Developer Guide
 . link:user/README.adoc[User Guide]
 .. link:user/getting-started/README.adoc[Getting Started]
 ... link:user/getting-started/installing-propelleride.adoc[Installing PropellerIDE]
