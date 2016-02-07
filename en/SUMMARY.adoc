@@ -22,5 +22,6 @@
 .. link:user/languages.md[Language Support]
 ... link:user/spin/README.adoc[Spin]
 ... PropBASIC
+... Propeller C
 .. link:user/faq.adoc[Frequently Asked Questions]
 
