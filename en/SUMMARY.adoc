@@ -20,6 +20,7 @@
 .. link:user/languages/README.adoc[Language Support]
 ... PropBASIC
 ... C
+... Spin
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/faq.adoc[Frequently Asked Questions]
 . link:developer/README.adoc[Developer Guide]
