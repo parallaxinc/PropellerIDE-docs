@@ -14,11 +14,19 @@
 
 ==== image:file-zip.png[] Archive Project
 
+Builds an link:project-archive.adoc[archive] of the current project.
+
 ==== image:project-build.png[] Build Project
+
+Compiles the current project without downloading it.
 
 ==== image:project-run.png[] Run Project
 
+Compiles and downloads it to the currently selected board.
+
 ==== image:project-burn.png[] Write Project
+
+==== image:port-select.png[] Device Selector
 
 == Debugging
 
