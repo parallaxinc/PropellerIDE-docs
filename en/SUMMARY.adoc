@@ -12,4 +12,5 @@
 ... Project Archive Tool
 .. link:user/preferences/README.adoc[Preferences]
 .. The Terminal
+.. Debugging Tools
 
