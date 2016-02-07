@@ -23,5 +23,5 @@
 ... C
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/faq.adoc[Frequently Asked Questions]
-. Developer Guide
+. link:developer/README.adoc[Developer Guide]
 
