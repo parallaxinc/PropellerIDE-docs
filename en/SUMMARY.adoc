@@ -13,9 +13,9 @@
 ... link:user/editor/project-view.adoc[Project View]
 ... Project Archive Tool
 .. link:user/preferences/README.adoc[Preferences]
-... Oscilloscope
 .. link:user/tools/README.adoc[Debugging Tools]
 ... link:user/tools/terminal.adoc[Terminal]
 ... Memory Map
+... Oscilloscope
 ... Heat Map
 
