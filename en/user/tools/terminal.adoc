@@ -10,9 +10,16 @@ There are no restrictions on the number of terminals that can be open at a time,
 
 image:terminal-toolbar.png[]
 
+image:terminal-active.png[]
 
+image:terminal-baud.png[]
+image:terminal-clear.png[]
+image:terminal-device.png[]
+image:terminal-echo.png[]
+image:terminal-reset.png[]
+image:terminal-rxtx.png[]
 
-==== Active Light & Button
+==== image:terminal-activelight.png[] Active Light & Button
 
 When the light is green and *Active* is pressed, the device is connected
 and ready to send and receive data.
