@@ -2,5 +2,7 @@
 
 image:project-view.png[]
 
-
+[source, cpp]
+====
 include::bacon.cpp[]
+====
