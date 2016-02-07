@@ -2,7 +2,7 @@
 
 . link:README.md[Introduction]
 . link:README.adoc[Introduction]
-. link:user/faq.md[User Guide]
+. link:user/README.adoc[User Guide]
 .. link:user/getting-started/README.adoc[Getting Started]
 ... link:user/getting-started/installing-propelleride.adoc[Installing PropellerIDE]
 ... Installing FTDI Drivers
@@ -19,4 +19,5 @@
 ... Oscilloscope
 ... Logic Analyzer
 .. link:user/preferences/README.adoc[Preferences]
+.. link:user/faq.adoc[Frequently Asked Questions]
 
