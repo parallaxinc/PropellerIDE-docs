@@ -1,2 +1,3 @@
 # The Main Editor
 
+image:mainwindow.png[alt=""]
