@@ -18,6 +18,7 @@
 |kbd:[Ctrl+X] | Cut
 |kbd:[Ctrl+C] | Copy
 |kbd:[Ctrl+V] | Paste
+|kbd:[Ctrl+A] | Select all
 |===
 
 ## Tab Controls
