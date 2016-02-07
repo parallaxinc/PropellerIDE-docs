@@ -50,4 +50,4 @@ Opens the link:memory-map.adoc[Memory Map] widget.
 
 ==== image:project-terminal.png[] Terminal
 
-Opens the link:terminal.adoc[Terminal] widget.
+Opens the link:../tools/terminal.adoc[Terminal] widget.
