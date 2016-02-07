@@ -2,7 +2,7 @@
 
 image:project-view.png[]
 
-[source,adoc]
+[source,cpp]
 ----
-include::editor-view.adoc[]
+include::bacon.cpp[]
 ----
