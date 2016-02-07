@@ -2,31 +2,46 @@
 
 ## Basic Shortcuts
 
-|===
-|kbd:[F8]  | Increase zoom
-|kbd:[F9]  | Increase zoom
-|kbd:[F10] | Increase zoom
-|kbd:[F11] | Increase zoom
-|kbd:[F12] | Increase zoom
-|===
 
-## Editing
+
+## Editing Shortcuts
 
 |===
-|kbd:[Ctrl+Z]  | Undo
-|kbd:[Ctrl+Shift+Z]  | Redo
-|kbd:[Ctrl+X] | Cut
-|kbd:[Ctrl+C] | Copy
-|kbd:[Ctrl+V] | Paste
-|kbd:[Ctrl+A] | Select all
+|kbd:[Ctrl+Z]       | Undo
+|kbd:[Ctrl+Shift+Z] | Redo
+|kbd:[Ctrl+X]       | Cut
+|kbd:[Ctrl+C]       | Copy
+|kbd:[Ctrl+V]       | Paste
+|kbd:[Ctrl+A]       | Select all
+|===
+
+## View Controls
+
+|===
+|kbd:[Ctrl++]   | Increase font size
+|kbd:[Ctrl+-]   | Reduce font size
+|kbd:[Ctrl+X]   | Cut
+|kbd:[Ctrl+C]   | Copy
+|kbd:[Ctrl+V]   | Paste
+|kbd:[Ctrl+A]   | Select all
+|===
+
+## Project Controls
+
+|===
+|kbd:[F8]  | Open memory map
+|kbd:[F9]  | Compile current program
+|kbd:[F10] | Run current file
+|kbd:[F11] | Write current file
+|kbd:[F12] | Open terminal on current device
 |===
 
 ## Tab Controls
 
 |===
-|kbd:[Ctrl+T]  | Create a new file
-|kbd:[Ctrl+Shift+T]  | Create a new file from a template
-|kbd:[Ctrl+W]  | Close the current tab
-|kbd:[Ctrl+PgUp]  | Go to previous tab
-|kbd:[Ctrl+PgDn]  | Go to next tab
+|kbd:[Ctrl+T]       | Create a new file
+|kbd:[Ctrl+Shift+T] | Create a new file from a template
+|kbd:[Ctrl+W]       | Close the current tab
+|kbd:[Ctrl+PgUp]    | Go to previous tab
+|kbd:[Ctrl+PgDn]    | Go to next tab
 |===
