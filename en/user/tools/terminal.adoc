@@ -1,2 +1,3 @@
 # Terminal
 
+image:terminal.png[]
