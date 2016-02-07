@@ -8,5 +8,6 @@
 .. link:user/editor/README.adoc[The Main Editor]
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
 ... link:user/editor/code-completion.adoc[Code Completion]
+... Project View
 .. link:user/preferences/README.adoc[Preferences]
 
