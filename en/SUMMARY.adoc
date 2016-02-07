@@ -1,5 +1,5 @@
 = Summary
 
 . link:README.adoc[Introduction]
-.. User Guide
+.. link:user/terminal.adoc[User Guide]
 
