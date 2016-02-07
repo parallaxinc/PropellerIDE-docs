@@ -2,4 +2,7 @@
 
 image:project-view.png[]
 
-include1::editor-view.adoc[]
+[source,perl]
+----
+include::editor-view.adoc[]
+----
