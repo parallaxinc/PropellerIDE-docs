@@ -15,21 +15,19 @@ There are two ways to input text
 
 ### Console
 
-image:terminal-console.png[]
-
 Using the console is recommended when the target device supports a more advanced command-line interface, as it will allow you to take advantage of things like readline capabilities, cursor positioning, etc.
+
+image:terminal-console.png[]
 
 Pressing the `Enter` or `Return` key sends a single newline (ASCII `10`) to the device.
 
 ### Input Line
 
-image:terminal-input.png[]
-
 For simpler interfaces, the input line is a better choice.
 
-Pressing the `Enter` or `Return` sends the text without newline. Pressing the _Send_ button sends the text plus a single newline.
+image:terminal-input.png[]
 
-In the future, the input line will su
+Pressing the `Enter` or `Return` sends the text without newline. Pressing the _Send_ button sends the text plus a single newline.
 
 
 ## _Parallax Serial Terminal_ Compatibility
