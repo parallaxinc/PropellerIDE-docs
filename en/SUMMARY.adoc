@@ -20,4 +20,5 @@
 ... Logic Analyzer
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/faq.adoc[Frequently Asked Questions]
+.. Language Support
 
