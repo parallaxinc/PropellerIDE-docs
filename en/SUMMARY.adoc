@@ -5,7 +5,7 @@
 .. link:user/getting-started/README.adoc[Getting Started]
 ... link:user/getting-started/installing-propelleride.adoc[Installing PropellerIDE]
 ... link:user/getting-started/installing-ftdi-drivers.adoc[Installing FTDI Drivers]
-.. link:user/editor/README.adoc[The Main Editor]
+.. link:user/editor/README.adoc[The Main Window]
 ... link:user/editor/toolbar.adoc[Tool Bar]
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
 ... link:user/editor/code-completion.adoc[Code Completion]
