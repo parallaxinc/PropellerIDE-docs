@@ -17,11 +17,11 @@ As of v0.36.7, PropellerIDE supports completing within the current file.
 
 Press kbd:[Esc] to quit without completing. Press kbd:[Enter] or kbd:[Return] to accept the completion.
 
-
-
-
 == In Another File
 
 PropellerIDE
 
-Typing the alias of an object, then `#` o
+- Typing the alias of an objectfootnote:[e.g. where we declare an object `kbd : "Keyboard"`, the alias is `kbd`.], then `#` opens a list of constants.
+- Typing the alias of an object, then `.` opens a list of functions.
+
+As with before, kbd:[Esc] quits, kbd:[Enter] or kbd:[Return] accepts.
