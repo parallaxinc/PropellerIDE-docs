@@ -20,4 +20,4 @@ As of v0.36.7, PropellerIDE supports completing within the current
 - Typing `#` brings up a list of constants.
 - Typing `.` brings up a list of functions.
 
-Pressing 
+Pressing kbd:[Escape]
