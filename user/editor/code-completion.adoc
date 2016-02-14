@@ -10,12 +10,14 @@ You can complete code from the current file or another file in the path in the m
 
 == In The Current File
 
-As of v0.36.7, PropellerIDE supports completing within the current 
+As of v0.36.7, PropellerIDE supports completing within the current file.
 
 - Typing `#` brings up a list of constants.
 - Typing `.` brings up a list of functions.
 
-Pressing kbd:[Esc]
+Press kbd:[Esc] to quit without completing. Press kbd:[Enter] or kbd:[Return] to accept the completion.
+
+
 
 
 == In Another File
