@@ -8,7 +8,7 @@
 .. link:user/editor/README.adoc[The Main Window]
 ... link:user/editor/toolbar.adoc[Tool Bar]
 ... link:user/editor/editor-view.adoc[Editor View]
-.... Code Completion
+.... link:user/editor/code-completion.adoc[Code Completion]
 ... Documentation View
 ... link:user/editor/project-view.adoc[Project View]
 ... link:user/editor/keyboard-shortcuts.adoc[Keyboard Shortcuts]
