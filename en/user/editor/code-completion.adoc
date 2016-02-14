@@ -1,17 +1,12 @@
 = Code Completion
+:experimental:
 
 PropellerIDE supports the following code completions.
 
 - Public functions
 - Constants
 
-== Usage
-
-== In Another File
-
-PropellerIDE
-
-Typing the name of the object
+You can complete code from the current file or another file in the path in the main file's directory or a directory in the library path.
 
 == In The Current File
 
@@ -20,4 +15,11 @@ As of v0.36.7, PropellerIDE supports completing within the current
 - Typing `#` brings up a list of constants.
 - Typing `.` brings up a list of functions.
 
-Pressing kbd:[Escape]
+Pressing kbd:[Esc]
+
+
+== In Another File
+
+PropellerIDE
+
+Typing the alias of an object, then `#` o
