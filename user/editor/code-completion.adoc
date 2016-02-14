@@ -1,12 +1,12 @@
 = Code Completion
 :experimental:
 
-PropellerIDE supports the following code completions.
+With PropellerIDE, you can complete code from the current file or another file in the path in the main file's directory or a directory in the library path.
+
+The following completions are supported.
 
 - Public functions
 - Constants
-
-You can complete code from the current file or another file in the path in the main file's directory or a directory in the library path.
 
 == Completing From The Current File
 
