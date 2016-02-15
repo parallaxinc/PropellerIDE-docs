@@ -35,7 +35,7 @@ kbd {
     margin: 0px;
 }
 
-.admonitionblock > table td p, .admonitionblock > table th p {
+#section- > div > div > div > div.admonitionblock > table > tbody > tr > td > div > p {
     margin: 0px;
 }
 
