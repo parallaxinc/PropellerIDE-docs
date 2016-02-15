@@ -31,10 +31,7 @@ kbd {
     padding: 5px;
 }
 
-.admonitionblock table {
-    background: transparent;
-    border: 0px;
-    padding: 0px;
+.book .book-body .page-wrapper .page-inner section.normal table {
     margin: 0px;
 }
 
