@@ -24,7 +24,6 @@
 ... PropBASIC
 ... C
 .. link:user/preferences/README.adoc[Preferences]
-... Themes
 .. link:user/faq.adoc[Frequently Asked Questions]
 . link:dev/README.adoc[Developer Guide]
 
