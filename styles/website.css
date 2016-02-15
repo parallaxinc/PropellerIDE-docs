@@ -51,9 +51,13 @@ kbd {
     vertical-align: middle;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon .title {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     font-weight: bold;
     max-width: 100px;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.content {
+    width: 100%;
 }
 
 .warning {
