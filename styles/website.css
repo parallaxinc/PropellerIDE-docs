@@ -50,6 +50,10 @@ kbd {
     vertical-align: middle;
 }
 
+#section- > div > div > div > div.admonitionblock > table td.icon {
+    font-weight: bold;
+}
+
 .warning {
     color: #8a6d3b;
     background-color: #fcf8e3;
