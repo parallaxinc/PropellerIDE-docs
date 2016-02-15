@@ -36,6 +36,11 @@ kbd {
     border: 0px;
 }
 
+.admonitionblock tr {
+    background: transparent;
+    border: 0px;
+}
+
 .admonitionblock tbody,tr,td,th {
     background: transparent;
     border: 0px;
