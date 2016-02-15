@@ -54,6 +54,7 @@ kbd {
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     font-weight: bold;
     max-width: 100px;
+    border-right: 3px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.content {
