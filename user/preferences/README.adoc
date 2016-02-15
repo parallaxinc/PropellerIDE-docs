@@ -21,6 +21,13 @@ image:theme-classic.png[]
 
 == Languages
 
+PropellerIDE supports multiple library paths to be searched from top to bottom.
+
+[NOTE]
+====
+This is still an in-progress feature.
+====
+
 image:languages.png[]
 
 == Editor
