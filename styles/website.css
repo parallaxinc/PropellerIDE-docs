@@ -21,3 +21,17 @@ kbd {
     box-sizing: border-box;
 
 }
+
+.admonitionblock {
+    padding: 15px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    box-sizing: border-box;
+    display: block;
+}
+
+.warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
