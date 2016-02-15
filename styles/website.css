@@ -34,6 +34,7 @@ kbd {
 .admonitionblock table {
     background: transparent;
     border: 0px;
+    padding: 0px;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal table td p, .book .book-body .page-wrapper .page-inner section.normal table th p {
