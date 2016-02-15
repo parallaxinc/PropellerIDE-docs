@@ -31,21 +31,21 @@ kbd {
     padding: 5px;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal table {
+.admonitionblock > table {
     margin: 0px;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal table td p, .book .book-body .page-wrapper .page-inner section.normal table th p {
+.admonitionblock > table td p, .admonitionblock > table th p {
     margin: 0px;
 }
 
 
-.book .book-body .page-wrapper .page-inner section.normal table tr {
+.admonitionblock > table tr {
     background: transparent;
     border: 0px;
 }
 
-.book .book-body .page-wrapper .page-inner section.normal table td, .book .book-body .page-wrapper .page-inner section.normal table th {
+.admonitionblock > table td, .admonitionblock > table th {
     border: 0px;
     vertical-align: middle;
 }
