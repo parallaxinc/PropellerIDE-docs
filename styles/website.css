@@ -41,8 +41,7 @@ kbd {
     border: 0px;
 }
 
-.admonitionblock tbody,tr,td,th {
-    background: transparent;
+.book .book-body .page-wrapper .page-inner section.normal table td, .book .book-body .page-wrapper .page-inner section.normal table th {
     border: 0px;
 }
 
