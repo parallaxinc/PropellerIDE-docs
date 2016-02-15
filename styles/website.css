@@ -40,12 +40,12 @@ kbd {
 }
 
 
-.admonitionblock > table tr {
+#section- > div > div > div > div.admonitionblock > table tr {
     background: transparent;
     border: 0px;
 }
 
-.admonitionblock > table td, .admonitionblock > table th {
+#section- > div > div > div > div.admonitionblock > table th {
     border: 0px;
     vertical-align: middle;
 }
