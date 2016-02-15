@@ -31,7 +31,7 @@ kbd {
     padding: 5px;
 }
 
-.admonitionblock > table {
+#section- > div > div > div > div.admonitionblock > table {
     margin: 0px;
 }
 
