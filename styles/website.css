@@ -31,26 +31,26 @@ kbd {
     padding: 5px;
 }
 
-#section .admonitionblock table {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table {
     margin: 0px;
 }
 
-#section .admonitionblock table tbody tr td p {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table tbody tr td p {
     margin: 0px;
 }
 
 
-#section .admonitionblock table tr {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table tr {
     background: transparent;
     border: 0px;
 }
 
-#section .admonitionblock table th, #section .admonitionblock table td {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table th, .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td {
     border: 0px;
     vertical-align: middle;
 }
 
-#section .admonitionblock table td.icon {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     font-weight: bold;
 }
 
