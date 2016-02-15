@@ -93,7 +93,7 @@ kbd {
 .warning {
     color: #8a6d3b;
     background-color: #fcf8e3;
-    border-color: #8a6d3b;
+    border-color: #faebcc;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock.warning table td.icon {
@@ -107,5 +107,5 @@ kbd {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock.caution table td.icon {
-    border-right: 2px solid #a94442;
+    border-right: 2px solid #cd807e;
 }
