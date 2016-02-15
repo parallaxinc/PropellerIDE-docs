@@ -60,17 +60,6 @@ kbd {
 }
 
 
-.warning {
-    color: #8a6d3b;
-    background-color: #fcf8e3;
-    border-color: #faebcc;
-}
-
-.book .book-body .page-wrapper .page-inner section.normal .admonitionblock.warning table td.icon {
-    border-right: 3px solid #faebcc;
-}
-
-
 .note {
     color: #31708f;
     background-color: #d9edf7;
@@ -78,20 +67,8 @@ kbd {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock.note table td.icon {
-    border-right: 3px solid #bce8f1;
+    border-right: 3px solid #31708f;
 }
-
-
-.important {
-    color: #31708f;
-    background-color: #d9edf7;
-    border-color: #bce8f1;
-}
-
-.book .book-body .page-wrapper .page-inner section.normal .admonitionblock.important table td.icon {
-    border-right: 3px solid #bce8f1;
-}
-
 
 .tip {
     color: #3c763d;
@@ -100,9 +77,28 @@ kbd {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock.tip table td.icon  {
-    border-right: 3px solid #d6e9c6;
+    border-right: 3px solid #3c763d;
 }
 
+.important {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock.important table td.icon {
+    border-right: 3px solid #31708f;
+}
+
+.warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #8a6d3b;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock.warning table td.icon {
+    border-right: 3px solid #8a6d3b;
+}
 
 .caution {
     color: #a94442;
@@ -111,5 +107,5 @@ kbd {
 }
 
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock.caution table td.icon {
-    border-right: 3px solid #ebccd1;
+    border-right: 3px solid #a94442;
 }
