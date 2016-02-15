@@ -31,8 +31,9 @@ kbd {
     display: block;
 }
 
-.admonitionblock table,tbody,tr,td {
+.admonitionblock table,tbody,tr,td,th {
     background: transparent;
+    border: 0px;
 }
 
 .warning {
