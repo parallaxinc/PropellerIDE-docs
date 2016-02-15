@@ -16,7 +16,7 @@ PropellerIDE provides the _Classic_ theme for compatibility with the original Pr
 [WARNING]
 .The Parallax font is deprecated
 ====
-The Parallax font's proprietary character mapping is not portable and is only provided for legacy support. Consider the use of a standalone diagramming tool or plain ASCII for creating in-source diagrams.
+The proprietary character mapping is not portable and is only provided for legacy support. Consider the use of a standalone diagramming tool or plain ASCII for creating in-source diagrams.
 ====
 
 image:theme-classic.png[]
