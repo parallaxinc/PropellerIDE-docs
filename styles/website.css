@@ -55,6 +55,11 @@ kbd {
     max-width: 100px;
 }
 
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon .title {
+    font-weight: bold;
+    max-width: 100px;
+}
+
 .warning {
     color: #8a6d3b;
     background-color: #fcf8e3;
