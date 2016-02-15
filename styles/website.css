@@ -31,26 +31,26 @@ kbd {
     padding: 5px;
 }
 
-#section- > div > div > div > div.admonitionblock > table {
+#section- > .admonitionblock > table {
     margin: 0px;
 }
 
-#section- > div > div > div > div.admonitionblock > table > tbody > tr > td > div > p {
+#section- > .admonitionblock > table > tbody > tr > td > div > p {
     margin: 0px;
 }
 
 
-#section- > div > div > div > div.admonitionblock > table tr {
+#section- > .admonitionblock > table tr {
     background: transparent;
     border: 0px;
 }
 
-#section- > div > div > div > div.admonitionblock > table th, #section- > div > div > div > div.admonitionblock > table td {
+#section- > .admonitionblock > table th, #section- > .admonitionblock > table td {
     border: 0px;
     vertical-align: middle;
 }
 
-#section- > div > div > div > div.admonitionblock > table td.icon {
+#section- > .admonitionblock > table td.icon {
     font-weight: bold;
 }
 
