@@ -22,7 +22,6 @@ kbd {
 
 }
 
-
 /* Admonition support, UGH */
 .admonitionblock {
     border: 1px solid transparent;
@@ -60,37 +59,57 @@ kbd {
     width: 100%;
 }
 
+
 .warning {
     color: #8a6d3b;
     background-color: #fcf8e3;
     border-color: #faebcc;
+}
+
+.warning .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     border-right: 3px solid #faebcc;
 }
+
 
 .note {
     color: #31708f;
     background-color: #d9edf7;
     border-color: #bce8f1;
+}
+
+.note .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     border-right: 3px solid #bce8f1;
 }
+
 
 .important {
     color: #31708f;
     background-color: #d9edf7;
     border-color: #bce8f1;
+}
+
+.important .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     border-right: 3px solid #bce8f1;
 }
+
 
 .tip {
     color: #3c763d;
     background-color: #dff0d8;
     border-color: #d6e9c6;
+}
+
+.tip .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     border-right: 3px solid #d6e9c6;
 }
+
 
 .caution {
     color: #a94442;
     background-color: #f2dede;
     border-color: #ebccd1;
+}
+
+.caution .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
     border-right: 3px solid #ebccd1;
 }
