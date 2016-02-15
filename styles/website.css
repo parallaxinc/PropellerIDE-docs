@@ -22,6 +22,8 @@ kbd {
 
 }
 
+
+/* Admonition support, UGH */
 .admonitionblock {
     border: 1px solid transparent;
     border-radius: 4px;
@@ -38,7 +40,6 @@ kbd {
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table tbody tr td p {
     margin: 0px;
 }
-
 
 .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table tr {
     background: transparent;
@@ -62,7 +63,25 @@ kbd {
 }
 
 .note {
-    color: #8a6d3b;
-    background-color: #fcf8e3;
-    border-color: #faebcc;
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.important {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.tip {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.caution {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
 }
