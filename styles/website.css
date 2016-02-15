@@ -27,6 +27,8 @@ kbd {
     border-radius: 4px;
     box-sizing: border-box;
     display: block;
+    margin-bottom: 20px;
+    padding: 5px;
 }
 
 .admonitionblock table {
