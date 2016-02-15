@@ -14,8 +14,9 @@ Changes to the appearance will propogate instantly throughout the IDE.
 PropellerIDE provides the _Classic_ theme for compatibility with the original Propeller Tool. It supports the legacy Parallax font with the proprietary Propeller character mapping.
 
 [WARNING]
+.The Parallax font is deprecated
 ====
-The Parallax font's proprietary character mapping is not portable and has been deprecated. Consider the use of a standalone diagramming tool or plain ASCII for creating in-source diagrams.
+The Parallax font's proprietary character mapping is not portable and is only provided for legacy support. Consider the use of a standalone diagramming tool or plain ASCII for creating in-source diagrams.
 ====
 
 image:theme-classic.png[]
