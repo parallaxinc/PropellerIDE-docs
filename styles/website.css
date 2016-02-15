@@ -31,7 +31,7 @@ kbd {
     display: block;
 }
 
-.admonitionblock * {
+.admonitionblock table,tbody,tr,td {
     background: transparent;
 }
 
