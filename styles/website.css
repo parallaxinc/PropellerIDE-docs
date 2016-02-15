@@ -66,7 +66,7 @@ kbd {
     border-color: #faebcc;
 }
 
-.warning .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon .warning {
     border-right: 3px solid #faebcc;
 }
 
@@ -77,7 +77,7 @@ kbd {
     border-color: #bce8f1;
 }
 
-.note .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon .note {
     border-right: 3px solid #bce8f1;
 }
 
@@ -88,7 +88,7 @@ kbd {
     border-color: #bce8f1;
 }
 
-.important .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon .important {
     border-right: 3px solid #bce8f1;
 }
 
@@ -99,7 +99,7 @@ kbd {
     border-color: #d6e9c6;
 }
 
-.tip .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon .tip {
     border-right: 3px solid #d6e9c6;
 }
 
@@ -110,6 +110,6 @@ kbd {
     border-color: #ebccd1;
 }
 
-.caution .book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon {
+.book .book-body .page-wrapper .page-inner section.normal .admonitionblock table td.icon .caution {
     border-right: 3px solid #ebccd1;
 }
