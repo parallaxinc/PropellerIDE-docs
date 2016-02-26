@@ -26,4 +26,5 @@
 .. link:user/preferences/README.adoc[Preferences]
 .. link:user/faq.adoc[Frequently Asked Questions]
 . link:dev/README.adoc[Developer Guide]
+.. Building PropellerIDE
 
