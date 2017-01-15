@@ -2,6 +2,7 @@
 .book .book-body .page-wrapper .page-inner section.normal pre {
     background: #131926;
     color: #b3b7b7;
+    border-radius: 15px;
 }
 
 
