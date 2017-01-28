@@ -64,7 +64,8 @@ You can build the executable as follows:
 
 To build the complete Debian package, which includes OpenSpin and PropBASIC, install these additional dependencies:
 
-    $ sudo apt-get install help2man debhelper imagemagick libftdi1 libudev-dev fpc                        
+    $ sudo apt-get install help2man debhelper imagemagick libftdi1 \
+            libudev-dev fpc                        
     $ fakeroot packthing -r deb -j8
     
 The `.deb` package will be built at `./build/staging/propelleride-X.Y.Z-ARCH.deb`.
@@ -74,14 +75,18 @@ The `.deb` package will be built at `./build/staging/propelleride-X.Y.Z-ARCH.deb
 To build the `propelleride` executable:
 
     $ sudo dnf install gcc-g++ make qt5 qt5-devel
-    
+
+In older YUM repositories, there were no top-level `qt5` or `qt5-devel` packages. If the above command fails for you, install the prerequisites directly.
+
+    $ sudo dnf install qt5-qtbase qt5-qttools qt5-qtbase-gui \
+            qt5-qtserialport qtchooser qt5-qtbase-devel
+
 You can build the executable as follows:
     
     $ qmake-qt5 -r
     $ make -j8
 
-RPM packaging is not yet available. However, you can build PropellerIDE's companion applications
-
+RPM packaging is not yet available.
 
 === Building on Mac
 
